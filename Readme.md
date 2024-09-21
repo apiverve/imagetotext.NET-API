@@ -94,7 +94,7 @@ if(response.error != null) {
   "status": "ok",
   "error": null,
   "data": {
-    "text": "A year after that (in 2021) I hired somebody to Help me write blog posts for\\nmy personal website.\\n\\nThe point is, I like reinvesting the money I make\\nback into my business.",
+    "text": "Ayear after that (in 2021) I hired somebody tpHfelp me write blog posts for\nmy personal website.\n\nThe point is, | like reinvesting the money | make\nback into my business.",
     "confidence": 88,
     "words": 28,
     "characters": 170,
